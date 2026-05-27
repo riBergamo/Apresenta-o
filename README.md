@@ -5,9 +5,7 @@ Um projeto moderno e responsivo desenvolvido com HTML, CSS e JavaScript.
 
 ## 📷 Preview
 
-![Preview do projeto](Apresentando/imagens/img-readme/preview1.png)
-![Preview do projeto](Apresentando/imagens/img-readme/preview2.png)
-
+<div align="center"> <img src="Apresentando/imagens/img-readme/preview1.png" width="16%"> <img src="Apresentando/imagens/img-readme/preview2.png" width="70%"> </div>
 
 ## ✨ Sobre o projeto
 
