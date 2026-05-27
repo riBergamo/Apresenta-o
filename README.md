@@ -3,6 +3,12 @@
 
 Um projeto moderno e responsivo desenvolvido com HTML, CSS e JavaScript.
 
+## 📷 Preview
+
+![Preview do projeto](imagens/img-readme/preview1.png)
+![Preview do projeto](imagens/img-readme/preview2.png)
+
+
 ## ✨ Sobre o projeto
 
 Este projeto foi desenvolvido com o objetivo de criar uma landing page moderna e responsiva, 
